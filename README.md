@@ -9,7 +9,7 @@
 
 <h4>Some of the technologies that I use are: </h4>
 <p float="left">
- <img src="images/ruby.png" height="48px">     <img src="images/javascript.png" height="48px">     <img src="images/html-5.png" height="48px">     <img src="images/css.png" height="48px">     <img src="images/sass.png" height="48px">     <img src="images/mysql.png" height="48px">
+ <img src="images/ruby.png" height="48px">     <img src="images/javascript.png" height="48px">     <img src="images/html-5.png" height="48px">     <img src="images/css.png" height="48px">     <img src="images/sass.png" height="48px">     <img src="images/postgres.png" height="48px">     <img src="images/mysql.png" height="48px">
  </p>
 
 <h4>I have experience building with the following CMS tools: </h4>
