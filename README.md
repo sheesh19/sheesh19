@@ -7,22 +7,22 @@
 
 <img src="images/melbourne.jpg">
 
-<h3>Some of the technologies that I use are: </h3>
+<h4>Some of the technologies that I use are: </h4>
 <p float="left">
  <img src="images/ruby.png" height="48px">     <img src="images/javascript.png" height="48px">     <img src="images/html-5.png" height="48px">     <img src="images/css.png" height="48px">     <img src="images/sass.png" height="48px">     <img src="images/mysql.png" height="48px">
  </p>
 
-<h3>I have experience building with the following CMS tools: </h3>
+<h4>I have experience building with the following CMS tools: </h4>
 <p float="left">
  <img src="images/squarespace.png" height="48px">     <img src="images/wix.png" height="48px">
 </p>
 
-<h3>As a previous product manager and PM for my own projects, I have experience with: </h3>
+<h4>As a previous product manager and PM for my own projects, I have experience with: </h4>
 <p float="left">
  <img src="images/figma.png" height="48px">     <img src="images/aha.png" height="48px">     <img src="images/jira.png" height="48px">     <img src="images/rally.png" height="48px">
 </p>
 
-<h3>I'm currently keen on learning the following: </h3>
+<h4>I'm currently keen on learning the following: </h4>
 <p float="left">
  <img src="images/python.png" height="48px">     <img src="images/react.png" height="48px">
 </p>
