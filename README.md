@@ -3,9 +3,9 @@
  
 <p>I'm currently working as a freelance developer and coding teacher at Le Wagon.</p>
 
-<p>Most recently, I lived and worked in Melbourne, Australia- below I'll talk about some of my koalities.</p>
+<p>Most recently, I lived and worked in Melbourne, Australia- below I can dive into my koalities.</p>
 
-<img src="images/melbourne.jpg">
+<img src="images/dive.jpg">
 
 <h4>Some of the technologies that I use are: </h4>
 <p float="left">
