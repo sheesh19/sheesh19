@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heya, I'm Sheila! 
+
+
+I'm currently working as a freelance developer and coding teacher at Le Wagon.
+
 
 <!--
 **sheesh19/sheesh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
