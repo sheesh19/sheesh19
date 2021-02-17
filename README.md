@@ -1,9 +1,13 @@
 <h1 class="text-center"> Heya, I'm Sheila! </h1>
 
  
-I'm currently working as a freelance developer and coding teacher at Le Wagon. Recently lived and worked in Melbourne, Australia, as a dev.
+<p>I'm currently working as a freelance developer and coding teacher at Le Wagon.</p>
+
+<p>Most recently, I lived and worked in Melbourne, Australia- below I'll talk about some of my koalities.</p>
 
 <img src="images/melbourne.jpg">
+
+<h5>Some of the technologies that I look to use are: </h5>
 
 
 <!--
