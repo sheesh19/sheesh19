@@ -1,12 +1,13 @@
 <h1 class="text-center"> Heya, I'm Sheila! </h1>
 
-<img src="images/dive.jpg">
+
  
 <p>I'm currently working as a freelance developer and coding teacher at Le Wagon.</p>
 
 <p>Most recently, I lived and worked in Melbourne, Australia; I'll dive into my koalities below.</p>
 
-<br>
+<img src="images/dive.jpg">
+
 
 <h4>Some of the technologies that I use are: </h4>
 <p float="left">
