@@ -19,7 +19,7 @@
  <img src="images/squarespace.png" height="48px">          <img src="images/wix.png" height="48px">
 </p>
 
-<h4>As a previous product manager and PM for my own projects, I have experience with: </h4>
+<h4>As a previous product manager, I have experience with: </h4>
 <p float="left">
  <img src="images/aha.png" height="48px">          <img src="images/jira.png" height="48px">          <img src="images/rally.png" height="48px">
 </p>
