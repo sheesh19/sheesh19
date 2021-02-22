@@ -6,6 +6,8 @@
 
 <p>Most recently, I lived and worked in Melbourne, Australia; I'll dive into my koalities below.</p>
 
+
+
 <img src="images/dive.jpg">
 
 
