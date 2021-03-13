@@ -6,7 +6,7 @@
 
 <p>Most recently, I lived and worked in Melbourne, Australia; I'll dive into my koalities below.</p>
 
-<p>My next teaching destination is Seoul, South Korea.</p>
+<p>My next destination is Seoul, South Korea.</p>
 
 
 
