@@ -4,7 +4,7 @@
  
 <p>I currently work as a freelance developer and coding teacher at Le Wagon.</p>
 
-<p>Most recently, I lived and worked in Melbourne, Australia; I'll dive into my koalities below.</p>
+<p>Most recently, I lived and worked in Melbourne, Australia- I'll dive into my koalities below.</p>
 
 <p>My next destination is Seoul, South Korea.</p>
 
