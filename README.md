@@ -26,7 +26,7 @@
  <img src="images/aha.png" height="48px">          <img src="images/jira.png" height="48px">          <img src="images/rally.png" height="48px">
 </p>
 
-<h4>I'm currently interested in and/or working on learning the following: </h4>
+<h4>I'm currently interested in learning the following: </h4>
 <p float="left">
  <img src="images/python.png" height="48px">          <img src="images/react.png" height="48px">
 </p>
