@@ -8,7 +8,7 @@
 
 
 
-<img src="images/dive.jpg">
+<!-- <img src="images/dive.jpg"> -->
 
 
 <h4>Some of the technologies that I typically use include: </h4>
