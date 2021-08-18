@@ -4,7 +4,7 @@
  
 <p>I currently work as a full stack developer at MangoTree and as a coding teacher at Le Wagon.</p>
 
-<p>Most recently, I lived and worked in Melbourne, Australia- below are some of the technologies I typically use.</p>
+<p>Most recently, I lived and worked in Melbourne, Australia- next up is Istanbul.</p>
 
 
 
