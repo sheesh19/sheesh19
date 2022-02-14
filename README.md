@@ -2,9 +2,7 @@
 
 
  
-<p>I currently work as a full stack developer at MangoTree and as a coding teacher at Le Wagon.</p>
-
-<p>Most recently, I lived and worked in Melbourne, Australia, and Istanbul, Turkey.</p>
+<p>I currently work as a remote full stack developer at Roadpass Digital.</p>
 
 
 
