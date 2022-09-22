@@ -1,4 +1,4 @@
-<h1 class="text-center"> Hiya, I'm Sheila! </h1>
+<h1 class="text-center"> Hiya, I'm Sheila!</h1>
 
 
  
