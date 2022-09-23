@@ -2,7 +2,7 @@
 
 
  
-<p>I currently work as a remote full stack developer at Roadpass Digital. Day-to-day, I'm typically using Ruby on Rails & Stimulus JS.</p>
+<p>I currently work as a remote full stack developer at Roadpass Digital. Day-to-day, I'm typically using Ruby on Rails (with HAML) and Stimulus JS.</p>
 
 
 
