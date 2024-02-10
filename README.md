@@ -3,7 +3,7 @@
 
  
 <p>I currently work as a remote full stack developer at Opinamos and recently at Roadpass Digital. 
-Day-to-day, I'm typically using Ruby on Rails and Stimulus JS.</p>
+Day-to-day, I'm typically using Ruby on Rails, Hotwire, and Stimulus JS.</p>
 
 
 
