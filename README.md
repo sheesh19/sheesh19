@@ -2,8 +2,8 @@
 
 
  
-<p>I currently work as a remote full stack developer at Opinamos. 
-Day-to-day, I'm usually using Ruby on Rails, Hotwire, and Stimulus JS.</p>
+<p>I currently work as a remote full stack developer at Opinamos.</p>
+<p>Day-to-day, I'm usually using Ruby on Rails, Hotwire, and Stimulus JS.</p>
 
 
 
